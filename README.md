@@ -92,21 +92,7 @@ The objective of this project is to create a user-friendly webapp as a centraliz
 <!-- CONTACT -->
 ## Contact
 
-Tristian (YiFeng) Chen - tristian.chen@mail.utoronto.ca
-
-Rebecca Lashley - rebeccalashleybb@gmail.com
-
-Lily Li - linyi.li@mail.utoronto.ca
-
-Kartikey Sachdeva - kartikeysnotes@gmail.com
-
-Ruoyi Xie - ruoyi.xie@mail.utoronto.ca
-
-Danial Ahmad - danial.ahmad@mail.utoronto.ca
-
-Christian Mcintoch Clarke - christian.mcintoshclarke@mail.utoronto.ca
-
-Project Link: [Event Horizon](https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks)
+Kartikey Sachdeva - kartikeyss2001@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
