@@ -1,0 +1,97 @@
+.profile--name--link {
+  text-decoration: none;
+  color: #002452;
+}
+.sidebar--user--header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30px;
+}
+
+.edit--button {
+  margin-top: 15px;
+}
+
+.edit--button--icon {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.edit--button-icon:hover {
+  color: #002452;
+}
+
+.sidebar img {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.edit--profile--pic {
+  position: absolute;
+  top: 30px; 
+  right: 30px; 
+}
+
+.sidebar .sidebar--user--name {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.sidebar .sidebar--user--email {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 5px;
+  color: #666;
+}
+
+.sidebar {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 300px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.host--info {
+  margin-right: 60px;
+}
+
+.host--transfer--button {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  margin-top: 15px;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.transfer-button:hover {
+  background-color: #454647;
+}
